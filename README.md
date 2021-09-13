@@ -1,3 +1,5 @@
+[![Deploy Lambda](https://github.com/kartik727/twitter_bot_aws/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kartik727/twitter_bot_aws/actions/workflows/main.yml)
+
 # twitter_bot_aws
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
