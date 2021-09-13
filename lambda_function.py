@@ -37,5 +37,6 @@ def lambda_handler(event, context):
     return {
         'statusCode': 200,
         'total_num_status' : status_counter,
-        'total_likes_created' : like_counter
+        'total_likes_created' : like_counter,
+        'body' : f'Run successful! Created {like_counter} new likes from {status_counter} tweets in timeline.'
     }
